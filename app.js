@@ -1,6 +1,7 @@
-/* 	set up default constants that is to 
+/* 	
+        set up default constants that is to 
 	be used in the rest of the app 
-	*/
+*/
 var config = {
     defaultZipcode: 57042,
     defaultCity: 'Madison',
